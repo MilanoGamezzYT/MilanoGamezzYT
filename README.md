@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MilanoGamezzYT
+- 👋 Hi, I’m Milan
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python and HTML
 - 💞️ I’m looking to collaborate on making my own website
-- 📫 How to reach me: Insta = milanogamezzyt 
+- 📫 How to reach me: Insta = milantjee078
 
 <!---
 MilanoGamezzYT/MilanoGamezzYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
