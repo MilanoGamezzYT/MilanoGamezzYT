@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milanogamezzyt" alt="milanogamezzyt" /></a> </p>
 
-- 🌱 I’m currently learning **Unity and Unreel Engine**
+- 🌱 I’m currently learning in **Unity and Unreal Engine**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MilanoGamezzYT?tab=repositories](https://github.com/MilanoGamezzYT?tab=repositories)
 
