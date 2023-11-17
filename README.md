@@ -3,7 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milanogamezzyt&label=Profile%20views&color=0e75b6&style=flat" alt="milanogamezzyt" /> </p>
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=milanogamezzyt" alt="milanogamezzyt" /></a> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=milanogamezzyt)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🌱 I’m currently learning in **Unity and Unreal Engine**
 
@@ -11,7 +10,6 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **insta = milanogamezzyt**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
