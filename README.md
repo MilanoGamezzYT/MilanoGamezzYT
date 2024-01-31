@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Milan</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=milanogamezzyt&label=Profile%20views&color=0e75b6&style=flat" alt="milanogamezzyt" /> </p>
-
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=milanogamezzyt" alt="milanogamezzyt" /></a> </p>
-
 - 🌱 I’m currently learning in **Unity and Unreal Engine**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MilanoGamezzYT?tab=repositories](https://github.com/MilanoGamezzYT?tab=repositories)
