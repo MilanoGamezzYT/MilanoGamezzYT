@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Milan</h1>
 
-- 🌱 I’m currently learning in **Unity and Unreal Engine**
+- 🌱 I’m currently learning in **C# and Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MilanoGamezzYT?tab=repositories](https://github.com/MilanoGamezzYT?tab=repositories)
 
