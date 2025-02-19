@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Milan</h1>
 
-- 🌱 I’m currently learning in **C# and Java**
+- 🌱 I’m currently learning in **PHP and Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MilanoGamezzYT?tab=repositories](https://github.com/MilanoGamezzYT?tab=repositories)
-
-- 💬 Ask me about **Python**
 
 
 <h3 align="left">Connect with me:</h3>
